@@ -1,7 +1,4 @@
-﻿using System;
-
-namespace AACoordToPixelExample;
-
+﻿namespace AACoordToPixelExample;
 public struct Degree
 {
     public Degree(double value, double degrees, double minutes, double seconds)
