@@ -3,7 +3,7 @@
 
 The example project converts ArcheAge coordinates.
 Given a `Configuration.ini` contents of: 
-```
+```ini
 [Ipnya Ridge]
 ImagePath=https://i.imgur.com/juIa77o.png
 GameCoord1=W 04 59 31 N 03 25 21
