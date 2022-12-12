@@ -1,5 +1,5 @@
 # CoordToPixel
- Convert game coordinates to image pixel coordinates
+ A C# library for converting game coordinates to image pixel coordinates
 
 The example project converts ArcheAge coordinates.
 Given a `Configuration.ini` contents of: 
