@@ -53,7 +53,6 @@ Points[]=W 09 43 52 S 16 20 51
 Points[]=W 10 07 33 S 16 17 08
 ```
 The resulting images would be placed in the Output directory
-<img src="https://i.imgur.com/bdX8t8U.png" alt="133152966527691290_alpha_Ipnya Ridge.png" height="400"/>
-<img src="https://i.imgur.com/jRaagNK.png" alt="133152966527691290_map_Ipnya Ridge.png" height="400"/>
-<img src="https://i.imgur.com/8G9KPNo.png" alt="133152966535403523_alpha_Marianople City.png" height="400"/>
-<img src="https://i.imgur.com/5PzwGRQ.png" alt="133152966535403523_map_Marianople City.png" height="400"/>
+
+<img src="https://i.imgur.com/bdX8t8U.png" alt="133152966527691290_alpha_Ipnya Ridge.png" width="500"/> <img src="https://i.imgur.com/jRaagNK.png" alt="133152966527691290_map_Ipnya Ridge.png" width="500"/>
+<img src="https://i.imgur.com/8G9KPNo.png" alt="133152966535403523_alpha_Marianople City.png" width="500"/> <img src="https://i.imgur.com/5PzwGRQ.png" alt="133152966535403523_map_Marianople City.png" width="500"/>
